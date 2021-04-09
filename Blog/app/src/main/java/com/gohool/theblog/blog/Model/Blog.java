@@ -1,8 +1,5 @@
 package com.gohool.theblog.blog.Model;
 
-/**
- * Created by paulodichone on 4/17/17.
- */
 
 public class Blog {
     public String title;
