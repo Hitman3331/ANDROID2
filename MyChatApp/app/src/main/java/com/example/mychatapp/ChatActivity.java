@@ -168,3 +168,5 @@ public class ChatActivity extends AppCompatActivity {
         return super.onOptionsItemSelected(item);
     }
 }
+
+//ChatActivity
