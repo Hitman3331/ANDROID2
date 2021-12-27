@@ -8,9 +8,7 @@ import com.parse.ParseObject;
 
 import model.Message;
 
-/**
- * Created by paulodichone on 4/10/15.
- */
+
 public class ChattApplication extends Application {
 
     @Override
