@@ -19,9 +19,7 @@ import java.util.List;
 
 import model.Message;
 
-/**
- * Created by paulodichone on 4/14/15.
- */
+
 public class ChatAdapter extends ArrayAdapter<Message> {
     private String mUserId;
 
