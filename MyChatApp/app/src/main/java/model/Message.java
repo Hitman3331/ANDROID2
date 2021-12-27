@@ -3,9 +3,7 @@ package model;
 import com.parse.ParseClassName;
 import com.parse.ParseObject;
 
-/**
- * Created by paulodichone on 4/14/15.
- */
+
 @ParseClassName("Message")
 public class Message extends ParseObject {
 
